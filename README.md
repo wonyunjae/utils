@@ -23,9 +23,8 @@ evo_traj bag [Trajectory.bag] [Trajectory Topic name] --save_as_tum
 ```jsx
 cd ~/[workspace_name]/src/utils/utils/tum
 evo_traj tum glim_utm.txt liosam_utm.txt -p -a --ref gps_utm.txt
-![image](https://github.com/user-attachments/assets/be249847-7514-4ca4-bb61-4757290035b2)
-
 ```
+![image](https://github.com/user-attachments/assets/be249847-7514-4ca4-bb61-4757290035b2)
 
 ### Convert Odometry(Relative) -> UTM(Absolute)
 input : Odometry MessageType, 기준이되는 gps/fix(NavSatfix MessageType)
