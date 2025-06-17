@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/smarthc/ros2_ws/build/utils",
+        "/home/smarthc/ros2_ws/install/utils/lib/python3.10/site-packages",
+        "/home/smarthc/ros2_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/smarthc/ros2_ws/build/object_detection",
+        "/home/smarthc/ros2_ws/install/object_detection/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/smarthc/ros2_ws/build/utils",
+        "/home/smarthc/ros2_ws/install/utils/lib/python3.10/site-packages",
+        "/home/smarthc/ros2_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/smarthc/ros2_ws/build/object_detection",
+        "/home/smarthc/ros2_ws/install/object_detection/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
