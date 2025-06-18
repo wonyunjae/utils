@@ -17,7 +17,7 @@ class LocalizationUI:
     def __init__(self):
         # 기본 설정
         self.foundation_stereo_path = '/home/smarthc/FoundationStereo'
-        self.glim_config_dir = '/home/smarthc/ros2_ws/src/glim_ros2/config'
+        self.glim_config_dir = '/home/smarthc/ros2_ws/src/glim/config'
         
         # 프로세스 추적
         self.processes = {}
